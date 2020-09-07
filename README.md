@@ -1,4 +1,4 @@
-# terms-and-conditions
+# Day Counter
 
 **Privacy Policy**
 
